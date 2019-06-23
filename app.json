@@ -1,6 +1,9 @@
 {
     "name": "CodiMD",
     "description": "Realtime collaborative markdown notes on all platforms",
+    "engines": {
+      "node": "10.3.0"
+    }
     "keywords": [
         "Collaborative",
         "Markdown",
